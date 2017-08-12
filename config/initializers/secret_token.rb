@@ -1,0 +1,1 @@
+ChapterOne::Application.config.secret_key_base = 'd0fb916fd696fe215b1d2fac91663ca5f31c0161cd2578a6bdab43ab913bee32c0e502d314fbff6556781f3520d90e7f1a4e1e3c0f47d703bbbcc7cd68675fdf'
